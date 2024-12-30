@@ -1,6 +1,6 @@
 # Grand Prix Winterthur Teaser Page
 
-Source code of the website https://gp-winterthur.ch/
+Source code of the teaser website. This code is not in use anymore.
 
 ## How to Use the CSS Classes
 

@@ -9,4 +9,4 @@
 # --delete: This option deletes files that are not in the source directory from the
 #     destination directory. This ensures that the destination only contains files
 #     that match the source.
-rsync -a --delete web/ winterthur-marathon.ch:www/gp-winterthur.ch/
+#rsync -a --delete web/ winterthur-marathon.ch:www/gp-winterthur.ch/
